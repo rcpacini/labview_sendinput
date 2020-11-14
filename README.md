@@ -21,6 +21,7 @@ for more information
 Open and run the `SendInput.llb\_SendInput Keyboard Example.vi`
 
 ## ASCII
+```
 Dec  Char
 0 NUL (null)
 1 SOH (start of heading)
@@ -150,3 +151,4 @@ Dec  Char
 125 }
 126 ~
 127 DEL
+```
